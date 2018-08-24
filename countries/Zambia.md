@@ -1,11 +1,11 @@
 ##Zambia
 ## population
+1000000
 
-
-## capital
+## capital namibia
 
  
-## official language
+## official language english
 
 
 ## interesting trivia
